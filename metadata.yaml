@@ -1,0 +1,30 @@
+_repo: Sonnets-and-Other-Verse_37365
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacKeracher, William M. (William Mackay)
+    aliases:
+    - MacKeracher, William Mackay
+    - MacKeracher, W. M. (William Mackay)
+    birthdate: 1871
+    deathdate: 1913
+    gutenberg_agent_id: '38682'
+    url: http://www.gutenberg.org/2009/agents/38682
+description: ''
+gutenberg_issued: '2011-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry'
+- !lcsh 'Sonnets'
+- !lcc 'PS'
+title: Sonnets and Other Verse
+url: http://www.gutenberg.org/ebooks/37365
